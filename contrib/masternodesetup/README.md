@@ -11,7 +11,7 @@
 ***
 
 ***On your Local Wallet***
-* Create an address with a label MN1 and send exactly 4000 MONK to it. Wait to complete 6 confirmations on “ Payment to yourself “ created.
+* Create an address with a label MN1 and send exactly the collateral amount to it ([consult the collateral table](../../README.md#rewards-breakdown)). Wait to complete 6 confirmations on “ Payment to yourself “ created.
 
 * Open the Debug Console ( Tools – Debug Console ) and type ***createmasternodekey***.
 You will then receive your private key, save it in a txt to use it later.
