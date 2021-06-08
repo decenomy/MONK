@@ -5,7 +5,7 @@
 ## Required
 1) **MONK collateral value at current block** ([consult the collateral table](../../README.md#rewards-breakdown))
 2) **Local Wallet https://github.com/decenomy/MONK/releases**
-3) **VPS with UBUNTU 16.04 or 18.04**
+3) **VPS with UBUNTU 18.04** (it is possible to work on other versions but it is not tested)
 4) **Putty https://www.putty.org/**
 5) **Text editor on your local pc to save data for copy/paste**
 ***
