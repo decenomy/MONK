@@ -1,4 +1,4 @@
-Monk Standard Wallet
+Monk Standard Wallet 
 =====================================
 
 ### Coin Specs
